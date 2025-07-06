@@ -1,0 +1,18 @@
+1d array 
+index array because position are assigned
+name = string
+number = integer/ float / double
+loop ====
+for loop
+while loop
+for each loop
+do while loop 
+
+repettion is what drives a loop
+one task is repeated again and again
+
+for (initialization; range / condition; increment/decrement;){
+    //statement....
+}
+
+
